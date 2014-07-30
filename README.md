@@ -30,7 +30,7 @@ Code for America is dedicated to providing a harassment-free experience for ever
 
 Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; unwelcome sexual attention; unwarranted exclusion; and patronizing language or action.
 
-As a general rule, Yes means yes; no means no; and maybe means no. You are encouraged to ask for unequivocal consent for all activities during the conference; this includes touching other people (e.g., hands on shoulders, hugs, etc).
+As a general rule, "yes" means **yes**; "no" means **no**; and "maybe" means **no**. You are encouraged to ask for unequivocal consent for all activities during the conference; this includes touching other people (e.g., hands on shoulders, hugs, etc).
 
 If a participant engages in harassing behavior, the event organizers may take any action they deem appropriate, including warning the offender, expulsion or sanctioning from future Code for America events and network activities. Participants asked to stop any harassing behavior are expected to comply immediately.
 
