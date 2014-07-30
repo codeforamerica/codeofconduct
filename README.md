@@ -34,7 +34,7 @@ As a general rule, "yes" means **yes**; "no" means **no**; and "maybe" means **n
 
 If a participant engages in harassing behavior, the event organizers may take any action they deem appropriate, including warning the offender, expulsion or sanctioning from future Code for America events and network activities. Participants asked to stop any harassing behavior are expected to comply immediately.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately. You can contact them at [EVENT ORGANIZER EMAIL AND PHONE NUMBER]. Event staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff immediately. You can contact them at `[EVENT ORGANIZER EMAIL AND PHONE NUMBER]`. Event staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
 If you cannot reach an event organizer and/or it is an emergency, please call 911 and/or remove yourself from the situation.
 
@@ -44,11 +44,13 @@ We value your attendance and hope that by communicating these expectations widel
 
 ####Email Template for Anti-Harassment Reporting
 
-SUBJECT: Safe Space alert at [EVENT NAME]
+SUBJECT: Safe Space alert at `[EVENT NAME]`
 
-I am writing because of harassment at a Code for America Communities event, (NAME, PLACE, DATE OF EVENT).
+I am writing because of harassment at a Code for America Communities event, `[NAME, PLACE, DATE OF EVENT]`.
 
-You can reach me at (CONTACT INFO). Thank you.
+`[DESCRIBE THE VIOLATION: WHAT, WHERE, WHEN, HOW, WHO]`
+
+You can reach me at `[CONTACT INFO]`. Thank you.
 
 ####Acknowledgements
 
