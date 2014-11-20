@@ -5,7 +5,7 @@ codigodeconducta
 
 La comunidad de Code for America espera que las actividades y eventos de Code for America:
 
-1. Sean un ambiente seguro y de respeto para todos los participantes
+1. Sean un ambiente seguro y de respeto para todos los participantes.
 2. Sean un lugar donde puedan expresar sus identidades libremente.
 3. Presume el valor de otros. Las ideas, abilidades y contribuciones de todos tienen valor.
 4. Que no se asuma que todos los participantes tienen o entienden el mismo contexto y que promueva discusión y preguntas.
