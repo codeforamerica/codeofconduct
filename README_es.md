@@ -14,7 +14,7 @@ La comunidad de Code for America espera que las actividades y eventos de Code fo
 7. Afanarse a crear herramientas que son abiertas y libres para uso publico. Se le dara prioridad a actividades que promuevan el uso publico de estas herramientas y tecnologia, no de ganancia privada.
 8. Se le dara prioridad de acceso y aportacion a personas que tradicionalmente estan excluidas del proceso civico.
 9. Asegurar que toda la comunidad este representada en la planificación, diseño y la implementación de cualquier tecnologia civica. Esto incluye la participacicion de mujeres, minorias y grupos que tradicionalmente an sido marginados.
-10. Involucrar grupos comunitarios y aquellos que tengan 
+10. Involucrar grupos comunitarios y aquellos que tengan que tienen experiencia en el tema en el proceso de toma de decisiones.
 11. Asegurar que las conversaciones entre los miembros de la comunidad, funcionarios de gobierno y amigos de la comunidad sean respetuosas, productivas y participativas.
 12. Proveer un ambiente libre de descriminacion y ostigamiento.
 
