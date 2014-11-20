@@ -8,13 +8,13 @@ La comunidad de Code for America espera que las actividades y eventos de Code fo
 1. Sean un ambiente seguro y de respeto para todos los participantes
 2. Sean un lugar donde puedan expresar sus identidades libremente.
 3. Presume el valor de otros. Las ideas, abilidades y contribuciones de todos tienen valor.
-4. Que no se asuma que todos loa participantes tienen o entienden el mismo contexto y que promueva discusión y preguntas.
+4. Que no se asuma que todos los participantes tienen o entienden el mismo contexto y que promueva discusión y preguntas.
 5. Que se ayude a encontrar alguna manera para que la persona sea productiva con sus destrasas, sean tecnical o no, y con su energia. Se recomienda utilizar lenguaje positivo.
 6. Que se promueva a sus miembros a escuchar al igual que hablan.
 7. Afanarse a crear herramientas que son abiertas y libres para uso publico. Se le dara prioridad a actividades que promuevan el uso publico de estas herramientas y tecnologia, no de ganancia privada.
 8. Se le dara prioridad de acceso y aportacion a personas que tradicionalmente estan excluidas del proceso civico.
-9. Asegurar que toda la comunidad este representada en la planificación, diseño y la implementación de cualquier tecnologia civica. Esto incluye la participaciceon de mujeres, minorias y grupos que tradicionalmente an sido marginados.
-10. Involucrar grupos comunitarios y aquellos que tengan Actively involve community groups and those with subject matter expertise in the decision-making process.
+9. Asegurar que toda la comunidad este representada en la planificación, diseño y la implementación de cualquier tecnologia civica. Esto incluye la participacicion de mujeres, minorias y grupos que tradicionalmente an sido marginados.
+10. Involucrar grupos comunitarios y aquellos que tengan 
 11. Asegurar que las conversaciones entre los miembros de la comunidad, funcionarios de gobierno y amigos de la comunidad sean respetuosas, productivas y participativas.
 12. Proveer un ambiente libre de descriminacion y ostigamiento.
 
