@@ -25,10 +25,10 @@ Code for America se reserva el derecho de pedirle a cualquier persona que no par
 
 Esta politica esta basada en [este ejemplo](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy) encontrado en el Wiki de Geek Feminism creado por el Ada Initiative y otros voluntarios.
 
-Esta politica esta basada en otras similares como por ejemplo la  
+Esta politica esta basada en otras similares como por ejemplo la
 Ohio LinuxFest anti-harassment policy - by Esther Filderman and Beth Lynn Eicher, and the Con Anti-Harassment Project. La generalización de la politica y el material de apoyo fue generado por Mary Gardiner, Valerie Aurora, Sarah Smith y Donna Benjamin. En adicion un sin numero de miembros de LinuxChix, Geek Feminism y otros grupos an contribuido a esta politica.
 
-* * * 
+* * *
 
 Todos el personal, presentadores y participantes de eventos de Code for America estan sujetos a la politica anti-ostigamiento que esta a continuación.
 
@@ -52,7 +52,7 @@ Valoramos su presencia y esperamos que al comunicar estas expectativas todos pod
 
 TEMA: Safe Space alert at [NOMBRE DEL EVENTO]
 
-Estoy escribiendo para reportar una acción de acoso en un evento comunitario de Code for America, (NOMBRE, LUGAR, FECHA DEL EVENTO). 
+Estoy escribiendo para reportar una acción de acoso en un evento comunitario de Code for America, (NOMBRE, LUGAR, FECHA DEL EVENTO).
 
 Me pueden contactar en (INFORMACION DE CONTACTO). Gracias.
 
