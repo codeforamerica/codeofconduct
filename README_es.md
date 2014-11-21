@@ -11,7 +11,7 @@ La comunidad de "Code for America" espera que las actividades y eventos de "Code
 4. Que no se asuma que todos los participantes tienen o entienden el mismo contexto y se promueva discusión y preguntas.
 5. Que se encuentre alguna manera para que la persona sea productiva usando sus destrezas, sean estas técnicas o no, y con su energía. Se recomienda utilizar lenguaje positivo.
 6. Que se promueva a sus miembros a escuchar al igual que hablan.
-7. Esforzarse a crear herramientas que son abiertas y libres para uso público. Se le dará prioridad a actividades que promuevan el uso público de estas herramientas y tecnología; no de ganancia privada.
+7. Afanarse a crear herramientas que son abiertas y libres para uso público. Se le dará prioridad a actividades que promuevan el uso público de estas herramientas y tecnología; no de ganancia privada.
 8. Se le dará prioridad de acceso y aportación a personas que tradicionalmente están excluidas del proceso cívico.
 9. Asegurar que toda la comunidad esté representada en la planificación, diseño y la implementación de cualquier tecnología cívica. Esto incluye la participación de mujeres, minorías y grupos que tradicionalmente han sido marginados.
 10. Involucrar grupos comunitarios y aquellos que tienen experiencia en el tema y en el proceso de toma de decisiones.
@@ -19,7 +19,6 @@ La comunidad de "Code for America" espera que las actividades y eventos de "Code
 12. Proveer un ambiente libre de discriminación y hostigamiento.
 
 "Code for America" se reserva el derecho de pedirle a cualquier persona que no participe de sus actividades si ha violentado alguna de estas reglas.
-
 
 #### Política Anti Acoso de "Code for America"
 
