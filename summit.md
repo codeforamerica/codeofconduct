@@ -1,7 +1,7 @@
 codeofconduct
 =============
 
-####Code for America's Code of Conduct for the 2015 Summit 
+####Code for America's Code of Conduct for the 2016 Summit 
 
 The Code for America community expects that Code for America activities, events, and digital forums:
 
