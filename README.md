@@ -1,56 +1,50 @@
-codeofconduct
-=============
+#codeofconduct 日本語版
 
-####Code for America's Code of Conduct
+この文書は、[Code for America の Code of Conduct](https://github.com/codeforamerica/codeofconduct)を日本語訳し、若干の改変を加えたものです。
 
-The Code for America community expects that Code for America network activities, events, and digital forums:
+##Code for Japan's 行動規範
 
-1. Are a safe and respectful environment for all participants.
-2. Are a place where people are free to fully express their identities.
-3. Presume the value of others. Everyone’s ideas, skills, and contributions have value.
-4. Don’t assume everyone has the same context, and encourage questions.
-5. Find a way for people to be productive with their skills (technical and not) and energy. Use language such as “yes/and”, not “no/but.”
-6. Encourage members and participants to listen as much as they speak.
-7. Strive to build tools that are open and free technology for public use. Activities that aim to foster public use, not private gain, are prioritized.
-8. Prioritize access for and input from those who are traditionally excluded from the civic process.
-9. Work to ensure that the community is well-represented in the planning, design, and implementation of civic tech. This includes encouraging participation from women, minorities, and traditionally marginalized groups. 
-10. Actively involve community groups and those with subject matter expertise in the decision-making process.
-11. Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
-12. Provide an environment where people are free from discrimination or harassment.
+Code for Japan コミュニティメンバーは、Code for ネットワークの行動、イベント、デジタルフォーラムなどにおいて、以下の状況が保障されることを期待します。
 
-Code for America reserves the right to ask anyone in violation of these policies not to participate in Code for America network activities, events, and digital forums.
+1. 全ての参加者に対し安全で、敬意が示された環境です
+2. 人々が自由かつ完全に個人の個性を表現することができる場所です
+3. 全ての人のアイデア、スキル、貢献に価値があるとことが前提となっています
+4. 全ての人々が同じ文脈を共有していると考えず、質問を奨励します
+5. 人々が（技術的かそうでないかに関わらず）能力や熱意を持って生産的になる方法を探します。「いいえ/しかし」(no/but)ではなく、「はい/さらに」(yes/and)という言葉を使います。
+6. コミュニティメンバーや参加者に、話すことよりも聞くことの方を奨励します。
+7. 誰もが利用できるよう、オープンで自由な技術を使ったツールを作り上げることを努力します。個人的な利得ではなく、公共の便益を促進する活動が優先されます。
+8. 市民参画において伝統的に除外されてきたような人々へのアクセスや、彼らからのインプット重視します。
+9. コミュニティがシビックテックの計画や設計、実装などを代表するように尽力します。これは、女性、マイノリティ、伝統的に排除されてきたような人々の参加を奨励することも含みます。
+10. 意思決定プロセスに、コミュニティグループや専門家を積極的に参加してもらいます。
+11. コミュニティメンバー、地方自治体スタッフ、コミュニティパートナーとの関係や会話が尊重され、参加し、生産性を維持することを確実にします。
+12. 差別や嫌がらせのない環境を提供します。
+Code for Japan は、これらのポリシーに違反した人は誰であれCode for Japanのネットワーク活動、イベント、およびデジタルフォーラムに参加しないように依頼する権利を保持します。
 
-####Code for America's Anti-Harassment Policy
+##Code for Japan のアンチハラスメントポリシー
 
-This anti-harassment policy is based on <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">the example policy</a> from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
+このアンチハラスメント(嫌がらせの防止)ポリシーは Code for America の [Code of Conduct](https://github.com/codeforamerica/codeofconduct/blob/master/README.md) の日本語訳が元になっていますが、大元のポリシーはAda Initiative と有志が作成した Geek Feminism wiki の[ポリシー例](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)を元に作られています。
 
-This policy is based on several other policies, including the Ohio LinuxFest anti-harassment policy, written by Esther Filderman and Beth Lynn Eicher, and the Con Anti-Harassment Project. Mary Gardiner, Valerie Aurora, Sarah Smith, and Donna Benjamin generalized the policies and added supporting material. Many members of LinuxChix, Geek Feminism and other groups contributed to this work.
+このポリシーは、Esther FildermanとBeth Lynn Eicherが作成したOhio LinuxFestのアンチハラスメントポリシーや、Con Anti-Harassment Projectなどのいくつかの他のポリシーに基づいています。 Mary Gardiner、Valerie Aurora、Sarah Smith、Donna Benjaminはポリシーを一般化し、サポート資料を追加しました。 LinuxChix、Geek Feminismなどの多くのメンバーがこの作業に貢献しました。
 
-* * * 
+Code for Japanは、性別、性同一性および表現、性的指向、身体的外見、身体の大きさ、人種、年齢、または宗教にかかわらず、すべての人にハラスメントのない環境を提供することに専念しています。 私たちは、スタッフ、プレゼンター、および参加者のいかなる形のハラスメントも容認しません。 性的言語と画像は、Code for Japanのイベントやネットワーク活動（通話を含む）には適切ではありません。 これらのポリシーに違反する者は、イベント主催者またはフォーラム管理者の裁量で、Code for Japanのネットワーク活動、イベント、およびデジタルフォーラムから退去させることができます。
 
-All Code for America network activities, events, and digital forums and their staff, presenters, and participants are held to an anti-harassment policy, included below.
+ハラスメントには、ジェンダー、性別、性的指向、障害、身体的外観、身体の大きさ、人種、宗教に関連する攻撃的な口頭またはテキストによる言及が含まれますが、これに限定されません。 公共空間における性的イメージ; 意図的な脅迫。 ストーカー; つきまとい; ハラスメントの写真や録音; 会話やその他の出来事の持続的な中断; 不適切な物理的接触; 不快な性的注意; 不当な除外: 人を見下すような言語や行動; なども含みます。
 
-In addition to governing our own events by this policy, Code for America will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, <a href="https://docs.google.com/a/codeforamerica.org/document/d/1Zg2FDt7awgfCmdcbzMwKHMb1A7KDOhs_z7ibCb3TLLQ/edit">see this guide</a>.
+参加者がハラスメント行為を行った場合、主催者は、Code for Japanのネットワーク活動、イベント、およびデジタルフォーラムからの加害者への警告や追放を含む、適切とみなされる措置を講じることができます。
 
-Code for America is dedicated to providing a harassment-free experience for everyone regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, or religion. We do not tolerate harassment of staff, presenters, and participants in any form. Sexual language and imagery is not appropriate for any Code for America event or network activity, including talks. Anyone in violation of these policies may expelled from Code for America network activities, events, and digital forums, at the discretion of the event organizer or forum administrator.
+あなたがハラスメントを受けている場合は、誰かがハラスメントを受けていることに気づいたり、その他の懸念がある場合は、すぐにイベント担当者またはフォーラム管理者に連絡してください。 [イベント主催者/フォーラム管理者のEメールアドレスと電話番号] から連絡することができます。 イベントスタッフまたはフォーラム管理者は、参加者が施設/会場のセキュリティや関連の法令執行機関に連絡したり、つきそいを行います。または、ハラスメントを経験した人がイベント期間中安全を感じられるような支援を行います。
 
-Harassment includes but is not limited to: offensive verbal or written comments related to gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, religion; sexual images in public spaces; deliberate intimidation; stalking; following; harassing photography or recording; sustained disruption of talks or other events; inappropriate physical contact; unwelcome sexual attention; unwarranted exclusion; and patronizing language or action.
+イベント主催者またはフォーラム管理者に連絡できない場合や緊急の場合は、警察に電話をしたり、自分自身で状況から離脱してください。
 
-If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from Code for America network activities, events, and digital forums. 
+下記の電子メールテンプレートを使用し、ハラスメントについての Code for Japan の連絡先 safespace@code4japan.org に連絡することもできます。 数多く開催されるイベント全てにCode for Japan のスタッフが常に参加しているとは限らないため、特定の状況を評価する立場に常にいるわけではないことを認めています。 しかし、私たちはこれらのガイドラインを提供することで、これらの価値観を共同で守り、すべてを歓迎する環境を提供できるコミュニティを確立することを期待しています。
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. You can contact them at [EVENT ORGANIZER/FORUM ADMINISTRATOR EMAIL AND PHONE NUMBER]. Event staff or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+私たちはあなたの参加を大切にしており、これらの期待を広範に伝えることによって、すべての人がハラスメントのない環境を楽しむことができるように願っています。
 
-If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation. 
+##アンチハラスメント報告用電子メールテンプレート
 
-You can also contact Code for America about harassment at safespace@codeforamerica.org and feel free to use the email template below. Code for America staff acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
+題名: 安全に関する報告[イベント名]
 
-We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
+Code for Japan コミュニティのイベントにおいて、ハラスメントの事象があったので報告します。
+(指名、場所、日付及びイベント名)
 
-####Email Template for Anti-Harassment Reporting
-
-SUBJECT: Safe Space alert at [EVENT NAME]
-
-I am writing because of harassment at a Code for America Communities event, (NAME, PLACE, DATE OF EVENT). 
-
-You can reach me at (CONTACT INFO). Thank you.
-
+連絡先：(コンタクト情報)
