@@ -2,6 +2,8 @@
 
 この文書は、[Code for America の Code of Conduct](https://github.com/codeforamerica/codeofconduct)を日本語訳し、若干の改変を加えたものです。
 
+※本文書は正式施行前のドラフト版であり、Code for Japan コミュニティの中で合意が取れたものではありません。
+
 ##Code for Japan's 行動規範
 
 Code for Japan コミュニティメンバーは、Code for ネットワークの行動、イベント、デジタルフォーラムなどにおいて、以下の状況が保障されることを期待します。
