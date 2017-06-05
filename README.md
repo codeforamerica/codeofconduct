@@ -2,7 +2,7 @@
 
 この文書は、[Code for America の Code of Conduct](https://github.com/codeforamerica/codeofconduct)を日本語訳し、若干の改変を加えたものです。
 
-※本文書は正式施行前のドラフト版であり、Code for Japan コミュニティの中で合意が取れたものではありません。
+※本文書は正式施行前のドラフト版です。
 
 ##Code for Japan's 行動規範
 
@@ -49,4 +49,4 @@ Code for Japanは、性別、性同一性および表現、性的指向、身体
 Code for Japan コミュニティのイベントにおいて、ハラスメントの事象があったので報告します。
 (指名、場所、日付及びイベント名)
 
-連絡先：(コンタクト情報)
+連絡先：info@code4japan.org
