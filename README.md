@@ -1,10 +1,10 @@
-#codeofconduct 日本語版
+# codeofconduct 日本語版
 
 この文書は、[Code for America の Code of Conduct](https://github.com/codeforamerica/codeofconduct)を日本語訳し、若干の改変を加えたものです。
 
 ※本文書は正式施行前のドラフト版です。
 
-##Code for Japan's 行動規範
+## Code for Japan's 行動規範
 
 Code for Japan コミュニティメンバーは、Code for ネットワークの行動、イベント、デジタルフォーラムなどにおいて、以下の状況が保障されることを期待します。
 
@@ -22,7 +22,7 @@ Code for Japan コミュニティメンバーは、Code for ネットワーク�
 12. 差別や嫌がらせのない環境を提供します。
 Code for Japan は、これらのポリシーに違反した人は誰であれCode for Japanのネットワーク活動、イベント、およびデジタルフォーラムに参加しないように依頼する権利を保持します。
 
-##Code for Japan のアンチハラスメントポリシー
+## Code for Japan のアンチハラスメントポリシー
 
 このアンチハラスメント(嫌がらせの防止)ポリシーは Code for America の [Code of Conduct](https://github.com/codeforamerica/codeofconduct/blob/master/README.md) の日本語訳が元になっていますが、大元のポリシーはAda Initiative と有志が作成した Geek Feminism wiki の[ポリシー例](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)を元に作られています。
 
@@ -42,7 +42,7 @@ Code for Japanは、性別、性同一性および表現、性的指向、身体
 
 私たちはあなたの参加を大切にしており、これらの期待を広範に伝えることによって、すべての人がハラスメントのない環境を楽しむことができるように願っています。
 
-##アンチハラスメント報告用電子メールテンプレート
+## アンチハラスメント報告用電子メールテンプレート
 
 題名: 安全に関する報告[イベント名]
 
