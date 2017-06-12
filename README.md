@@ -1,7 +1,7 @@
 codeofconduct
 =============
 
-####Code for America's Code of Conduct
+#### Code for America's Code of Conduct
 
 The Code for America community expects that Code for America network activities, events, and digital forums:
 
@@ -20,7 +20,7 @@ The Code for America community expects that Code for America network activities,
 
 Code for America reserves the right to ask anyone in violation of these policies not to participate in Code for America network activities, events, and digital forums.
 
-####Code for America's Anti-Harassment Policy
+#### Code for America's Anti-Harassment Policy
 
 This anti-harassment policy is based on <a href="http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy">the example policy</a> from the Geek Feminism wiki, created by the Ada Initiative and other volunteers.
 
@@ -46,7 +46,7 @@ You can also contact Code for America about harassment at safespace@codeforameri
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
-####Email Template for Anti-Harassment Reporting
+#### Email Template for Anti-Harassment Reporting
 
 SUBJECT: Safe Space alert at [EVENT NAME]
 
