@@ -42,7 +42,7 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation. 
 
-You can also contact Code for America about harassment at safespace@codeforamerica.org and feel free to use the email template below. Code for America staff acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
+You can also contact Code for America about harassment by emailing **safespace** at **codeforamerica.org** and feel free to use the email template below. Code for America staff acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
