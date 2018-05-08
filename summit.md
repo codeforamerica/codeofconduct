@@ -38,11 +38,11 @@ Harassment includes but is not limited to: offensive verbal or written comments 
 
 If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from Code for America network activities, events, and digital forums. 
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately, members of the event production company, Caspian, will be available at the help desk. You can contact safespace@codeforamerica.org. Event staff or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately, members of the event production company, Caspian, will be available at the help desk. You can email **safespace** at **codeforamerica.org**. Event staff or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
 If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation. 
 
-You can also contact Code for America about harassment at safespace@codeforamerica.org and feel free to use the email template below. We are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
+You can also contact Code for America about harassment by emailing **safespace** at **codeforamerica.org** and feel free to use the email template below. We are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
 
 We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
 
