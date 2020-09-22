@@ -28,7 +28,7 @@ If you hace any questions or want to report a violation to our code of conduct p
 
 ----
 
-## Código de Conducta de Code 4 Puerto Rico
+## Código de Conducta
 
 En Code for America creemos que todxs deben sentirse cómodos, aceptados y seguros.
 
