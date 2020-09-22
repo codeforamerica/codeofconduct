@@ -3,7 +3,7 @@
 - [In English](https://github.com/codeforamerica/codeofconduct/blob/master/code-of-conduct-en.md)
   - [How to Contribute](#how-to-contribute-to-this-code-of-conduct)
   - [More information and incident reports](#more-information-and-incident-reports)
-- [En español](#código-de-conducta-de-code-4-puerto-rico)
+- [En Español](#código-de-conducta-de-code-4-puerto-rico)
   - [Cómo contribuir](#cómo-contribuir-a-este-código-de-conducta)
   - [Más Información o reportar incidentes](#más-información-o-reporte-de-incidentes)
 
@@ -11,7 +11,7 @@
 
 In Code for America we believe that everybody should feel comfortable, accepted, and safe.
 
-For this reason our Code of Conduct is very important and guides all interactions in our event and properties. PLease take some time to read our [english version](code-of-conduct-en.md).
+For this reason our Code of Conduct is very important and guides all interactions in our event and properties. Please take some time to read our [Code of Conduct](code-of-conduct-en.md).
 
 ### How to contribute to this code of conduct
 
@@ -24,7 +24,7 @@ We await your contributions :heart:
 
 ### More information and incident reports
 
-If you hace any questions or want to report a violation to our code of conduct please contact **safespace** at **codeforamerica.org**.
+If you have any questions or want to report a violation to our code of conduct please contact **safespace** at **codeforamerica.org**.
 
 ----
 
@@ -32,7 +32,7 @@ If you hace any questions or want to report a violation to our code of conduct p
 
 En Code for America creemos que todxs deben sentirse cómodos, aceptados y seguros.
 
-Por esta razón nuestro código de conducta de Code for America tiene mucha importancía y guia toda interacción en nuestros eventos y propiedades. Por favor tome un momento para leer la [versión en español](code-of-conduct-es.md).
+Por esta razón nuestro código de conducta de Code for America tiene mucha importancía y guia toda interacción en nuestros eventos y propiedades. Por favor tome un momento para leer la [versión en Español](code-of-conduct-es.md).
 
 ### Cómo contribuir a este código de conducta
 
