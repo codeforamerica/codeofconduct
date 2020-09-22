@@ -3,7 +3,7 @@
 - [In English](https://github.com/codeforamerica/codeofconduct/blob/master/code-of-conduct-en.md)
   - [How to Contribute](#how-to-contribute-to-this-code-of-conduct)
   - [More information and incident reports](#more-information-and-incident-reports)
-- [En Español](#código-de-conducta-de-code-4-puerto-rico)
+- [En Español](https://github.com/codeforamerica/codeofconduct/blob/master/code-of-conduct-es.md)
   - [Cómo contribuir](#cómo-contribuir-a-este-código-de-conducta)
   - [Más Información o reportar incidentes](#más-información-o-reporte-de-incidentes)
 
