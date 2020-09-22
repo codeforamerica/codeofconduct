@@ -1,6 +1,6 @@
 # Code of Conduct / Código de Conducta
 
-- [In English](#code-4-puerto-rico-code-of-conduct)
+- [In English](https://github.com/codeforamerica/codeofconduct/blob/master/code-of-conduct-en.md)
   - [How to Contribute](#how-to-contribute-to-this-code-of-conduct)
   - [More information and incident reports](#more-information-and-incident-reports)
 - [En español](#código-de-conducta-de-code-4-puerto-rico)
