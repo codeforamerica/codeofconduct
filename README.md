@@ -32,14 +32,14 @@ If you have any questions or want to report a violation to our code of conduct p
 
 En Code for America creemos que todxs deben sentirse cómodos, aceptados y seguros.
 
-Por esta razón nuestro código de conducta de Code for America tiene mucha importancía y guia toda interacción en nuestros eventos y propiedades. Por favor tome un momento para leer la [versión en Español](code-of-conduct-es.md).
+Por esta razón nuestro código de conducta tiene mucha importancía y guia toda interacción en nuestros eventos y propiedades. Por favor tome un momento para leer la [versión en Español](code-of-conduct-es.md).
 
 ### Cómo contribuir a este código de conducta
 
-Nuestro código de conducta es un documento viviente que nuestra comunidad puede ayudar a cambiar y evolucionar. Puedes hacer esto de varias maneras:
+Nuestro código de conducta es un documento vivo que nuestra comunidad puede ayudar a cambiar y evolucionar. Puedes hacer esto de varias maneras:
 
 1. Puedes abrir un Issue con tus comentarios y/o sugerencias.
-2. Puedes someter un Pull Request para sugerir cambios a los documentos en este repositorio.
+2. Puedes crear un Pull Request para sugerir cambios a los documentos en este repositorio.
 
 Esperamos sus contribuciones :heart:
 
