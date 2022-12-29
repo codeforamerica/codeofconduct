@@ -47,4 +47,4 @@ Esperamos sus contribuciones :heart:
 
 Si tienes alguna pregunta o quieres reportar una violación a nuestro código de conducta por favor contacte **safespace** at **codeforamerica.org**.
 
-# License
+### [License]("https://github.com/lostleolotus/codeofconduct/tree-save/lostleolotus/License/README.md")
