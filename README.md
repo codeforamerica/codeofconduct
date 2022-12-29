@@ -46,3 +46,5 @@ Esperamos sus contribuciones :heart:
 ### Más información o reporte de incidentes
 
 Si tienes alguna pregunta o quieres reportar una violación a nuestro código de conducta por favor contacte **safespace** at **codeforamerica.org**.
+
+# License
